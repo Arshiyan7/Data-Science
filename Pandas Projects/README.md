@@ -6,4 +6,3 @@ Contents:
 - weather_pr.ipynb: Analyzing weather patterns.
 - Cleaned-sales-data.csv: Cleaned version of sales data for analysis.
 - Weather-Data.csv: Dataset for weather analysis.
-- Cleaned-Sales-Data.csv is a refined version of the raw sales data
