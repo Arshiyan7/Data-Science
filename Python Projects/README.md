@@ -2,6 +2,6 @@
 
 Contents:
 
-1- data.py: Script for managing datasets.
-2- finance_data.csv: Sample financial data for analysis.
-3- main.py: Main project script showcasing Python programming.
+- data.py: Script for managing datasets.
+- finance_data.csv: Sample financial data for analysis.
+- main.py: Main project script showcasing Python programming.
