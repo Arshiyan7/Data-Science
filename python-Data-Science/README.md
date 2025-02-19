@@ -2,7 +2,6 @@
 
 Contents:
 
-- sales.ipynb: Analysis of sales data.
-- weather_pr.ipynb: Analyzing weather patterns.
-- Cleaned-sales-data.csv: Cleaned version of sales data for analysis.
-- Weather-Data.csv: Dataset for weather analysis.
+- Sales_Pr.ipynb: Analysis of sales data.
+- Weather_Pr.ipynb: Analyzing weather patterns.
+- Resturant_Pr.ipynb: Analyzing Resturant data.
