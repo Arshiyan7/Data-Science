@@ -1,6 +1,6 @@
 🔢 Numpy is the backbone of numerical computing in Python. This folder includes examples to understand array manipulation, mathematical operations, and performance optimization.
 
-Contents:
+# Numpy Quick Revision Notes 🚀
 
 ## 🔢 NumPy (Numerical Computing Library)  
 

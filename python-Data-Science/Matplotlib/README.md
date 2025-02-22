@@ -1,6 +1,6 @@
 📊 Matplotlib is a popular Python library used for data visualization. This folder contains notebooks and examples to help you create stunning plots and graphs for your data.
 
-Contents:
+# Matplotlib Quick Revision Notes 🚀
 
 ## 📊 Matplotlib (Data Visualization Library)  
 
