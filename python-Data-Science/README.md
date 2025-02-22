@@ -1,4 +1,4 @@
-📂 Pandas Projects showcases real-world examples of data analysis using Pandas.
+📂 Pandas Projects showcases real-world examples of data analysis using Pandas,numpy,matplotlib and seaborn.
 
 Contents:
 

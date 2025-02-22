@@ -2,9 +2,22 @@
 
 Contents:
 
-- Matplotlib_1.ipynb: Basics of plotting with Matplotlib.
-- Matplotlib_2.ipynb: Customizing plots (titles, labels, legends).
-- Matplotlib_3.ipynb: Working with subplots.
-- Matplotlib_4.ipynb: Bar charts and histograms.
-- Matplotlib_5.ipynb: Line plots and scatter plots.
-- Matplotlib_6.ipynb: Advanced plotting techniques.
+## 📊 Matplotlib (Data Visualization Library)  
+
+### 🔹 1️⃣ Basic Plotting  
+📌 `plt.plot(x, y, marker='o', linestyle='--', color='r')` → Line plot  
+📌 `plt.bar(x, y, color='g')` → Bar chart  
+📌 `plt.scatter(x, y, color='b')` → Scatter plot  
+📌 `plt.hist(data, bins=30)` → Histogram  
+📌 `plt.pie(sizes, labels=labels)` → Pie chart  
+
+---
+
+### 🔹 2️⃣ Customizing Plots  
+📌 `plt.xlabel("X-axis")` → Label for X-axis  
+📌 `plt.ylabel("Y-axis")` → Label for Y-axis  
+📌 `plt.title("Title")` → Set title  
+📌 `plt.legend()` → Add legend  
+📌 `plt.show()` → Display the plot  
+
+---

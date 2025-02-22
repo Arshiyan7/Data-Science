@@ -1,14 +1,37 @@
-📚 Pandas is a powerful library for data analysis and manipulation. This folder demonstrates how to work with datasets efficiently.
+# Pandas Quick Revision Notes 🚀
+## 🐼 Pandas (Data Analysis Library)  
 
-Contents:
+### 🔹 1️⃣ Dataset Handling  
+📌 `pd.read_csv("file.csv")` → Load CSV file  
+📌 `df.head()` → First 5 rows  
+📌 `df.info()` → Summary of dataframe  
+📌 `df.describe()` → Statistical summary  
+📌 `df.shape` → Returns (rows, columns)  
+📌 `df.columns` → List of column names  
+📌 `df.dtypes` → Data types of columns  
+📌 `df.isnull().sum()` → Check missing values  
+📌 `df.dropna()` → Drop missing values  
+📌 `df.fillna(value)` → Fill missing values  
 
-- DateTime.ipynb: Handling dates and times.
-- Pandas Groupby.ipynb: Aggregating data with groupby.
-- Pivot and melt.ipynb: Reshaping datasets with pivot and melt.
-- concat.ipynb: Combining datasets with concat.
-- data cleaning.ipynb: Cleaning and preparing raw data.
-- data cleaning 2.ipynb: Advanced cleaning techniques.
-- loc and iloc.ipynb: Selecting data by label or index.
-- merge.ipynb: Merging multiple datasets.
-- read and write csv.ipynb: Reading and writing CSV files.
-- stack, unstack and crosstab.ipynb: Advanced reshaping techniques.
+---
+
+### 🔹 2️⃣ Selecting & Filtering Data  
+📌 `df['column']` → Select single column  
+📌 `df[['col1', 'col2']]` → Select multiple columns  
+📌 `df.loc[row_index]` → Select row by index  
+📌 `df.iloc[row_num]` → Select row by position  
+📌 `df[df['col'] > value]` → Filter rows based on condition  
+📌 `df.sort_values('col', ascending=False)` → Sort by column  
+
+---
+
+### 🔹 3️⃣ Modifying Data  
+📌 `df['new_col'] = df['col'] * 2` → Create new column  
+📌 `df.rename(columns={'old': 'new'})` → Rename column  
+📌 `df.drop(columns=['col'])` → Drop column  
+📌 `df.duplicated().sum()` → Find duplicates  
+📌 `df.drop_duplicates()` → Remove duplicates  
+📌 `df.groupby('col').mean()` → Group by column  
+📌 `df.merge(df2, on='col')` → Merge with another dataframe  
+
+---
