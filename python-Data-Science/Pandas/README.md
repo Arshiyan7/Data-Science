@@ -1,4 +1,6 @@
+Pandas is a powerful Python library for data analysis and manipulation. It provides efficient tools for handling structured data, including loading, filtering, modifying, and analyzing datasets with ease.
 # Pandas Quick Revision Notes 🚀
+
 ## 🐼 Pandas (Data Analysis Library)  
 
 ### 🔹 1️⃣ Dataset Handling  
