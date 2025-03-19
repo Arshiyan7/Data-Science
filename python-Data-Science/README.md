@@ -2,6 +2,7 @@
 
 Contents:
 
-- Sales_Pr.ipynb: Analysis of sales data.
-- Weather_Pr.ipynb: Analyzing weather patterns.
-- Resturant_Pr.ipynb: Analyzing Resturant data.
+- Sales_Project.ipynb: Analysis of sales data.
+- Weather_Project.ipynb: Analyzing weather patterns.
+- Resturant_Project.ipynb: Analyzing Resturant data.
+- Netflix_Project.ipynb: Analyzing Netflix data.
