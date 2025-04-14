@@ -1,8 +1,15 @@
-📂 Pandas Projects showcases real-world examples of data analysis using Pandas,numpy,matplotlib and seaborn.
+📂 EDA Projects showcases real-world examples of data analysis from basic to advance.
 
+## Tools used:
+- Python
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 Contents:
 
-- Sales_Project.ipynb: Analysis of sales data.
-- Weather_Project.ipynb: Analyzing weather patterns.
-- Resturant_Project.ipynb: Analyzing Resturant data.
-- Netflix_Project.ipynb: Analyzing Netflix data.
+- Sales-data-Analysis.ipynb: Analysis of sales data.
+- Weather-data-Analysis.ipynb: Analyzing weather patterns.
+- Resturant-data-Analysis.ipynb.ipynb: Analyzing Resturant data.
+- Netflix-data-Analysis.ipynb: Analyzing Netflix data.
+- Steam-data-Analysis.ipynb: Analyzing Netflix data
