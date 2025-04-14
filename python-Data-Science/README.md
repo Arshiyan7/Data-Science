@@ -1,4 +1,5 @@
-📂 EDA Projects showcases real-world examples of data analysis from basic to advance.
+# EDA Projects:
+- showcases real-world examples of data analysis from basic to advance.
 
 ## Tools used:
 - Python
@@ -6,7 +7,8 @@
 - Pandas
 - Matplotlib
 - Seaborn
-Contents:
+
+## Project Contents:
 
 - Sales-data-Analysis.ipynb: Analysis of sales data.
 - Weather-data-Analysis.ipynb: Analyzing weather patterns.
