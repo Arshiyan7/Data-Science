@@ -1,4 +1,4 @@
-# 🧪 EDA Tutorials
+# EDA Tutorials
 
 This repo contains step-by-step Jupyter notebooks to practice and learn Exploratory Data Analysis (EDA) from scratch using Python.
 
