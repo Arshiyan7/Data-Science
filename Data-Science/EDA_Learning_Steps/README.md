@@ -20,6 +20,19 @@ This repo contains step-by-step Jupyter notebooks to practice and learn Explorat
   - Built simple plotting functions
   - Compared value distributions across variables
 
+## Day 2 – Grouping & Outlier Detection
+
+**Notebook:** `02_grouping_outliers_boxplots.ipynb`
+
+### What’s covered:
+- Performed basic grouping using `.groupby()` to explore relationships (e.g., survival rate by gender, class)
+- Aggregated summary stats with `.mean()`, `.count()`, etc.
+- Detected outliers in numerical columns using the IQR (Interquartile Range) method
+- Removed or flagged outliers for cleaner analysis
+- Visualized distributions and outliers using Seaborn `boxplot`
+- Created helper functions for IQR filtering and grouped summaries
+
+
 ### 🔧 Tools:
 `pandas`, `seaborn`, `matplotlib`
 
