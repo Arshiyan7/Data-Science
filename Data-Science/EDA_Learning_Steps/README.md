@@ -43,6 +43,12 @@ This repo contains step-by-step Jupyter notebooks to practice and learn Explorat
 - Plotted heatmaps to examine correlations between numerical variables
 - Focused on building intuitive visual narratives for better pattern recognition
 - Improved plot styling and layout for clearer communication
+- Handling Missing Values:
+  - Identified missing values using `.isnull().sum()` and visual inspection
+  - Used `.fillna()` to impute missing values where appropriate (e.g., with mean, median, or placeholders)
+  - Applied `.dropna()` to remove rows with missing data in certain cases
+  - Made decisions based on the context and importance of each feature
+  - Ensured that data cleaning steps were modular and reusable within the notebook
 
 ### 📊 Visual Tools:
 `catplot`, `barplot`, `boxplot`, `heatmap`, `seaborn`, `matplotlib`
