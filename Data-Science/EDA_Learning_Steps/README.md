@@ -32,6 +32,20 @@ This repo contains step-by-step Jupyter notebooks to practice and learn Explorat
 - Visualized distributions and outliers using Seaborn `boxplot`
 - Created helper functions for IQR filtering and grouped summaries
 
+## Day 3 – Visualizing Survival Patterns
+
+**Notebook:** `03_visualizing_survival_patterns.ipynb`
+
+### What’s covered:
+- Created grouped visualizations to explore relationships between survival and other features
+- Used Seaborn’s `catplot` to generate different plot types like bar plots, box plots
+- Compared distributions of categorical and numerical features visually
+- Plotted heatmaps to examine correlations between numerical variables
+- Focused on building intuitive visual narratives for better pattern recognition
+- Improved plot styling and layout for clearer communication
+
+### 📊 Visual Tools:
+`catplot`, `barplot`, `boxplot`, `heatmap`, `seaborn`, `matplotlib`
 
 ### 🔧 Tools:
 `pandas`, `seaborn`, `matplotlib`
