@@ -53,6 +53,22 @@ This repo contains step-by-step Jupyter notebooks to practice and learn Explorat
 ### 📊 Visual Tools:
 `catplot`, `barplot`, `boxplot`, `heatmap`, `seaborn`, `matplotlib`
 
+## Day 3 – Visualizing Survival Patterns
+
+**Notebook:** `04_Essentail_Concepts_Practice_for_Feature-Engineering.ipynb`
+
+### What’s covered:
+- Creating & Modifying Columns
+- Filtering Data with Conditions
+- Using `np.where()` & `pd.cut()`
+- Filling Missing Values
+- One-Hot & Label Encoding
+- String Handling in Pandas
+- Datetime Feature Extraction
+- Basic Categorization & Grouping
+
+---
+
 ### 🔧 Tools:
 `pandas`, `seaborn`, `matplotlib`
 
