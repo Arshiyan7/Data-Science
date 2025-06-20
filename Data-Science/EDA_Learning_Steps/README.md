@@ -53,7 +53,7 @@ This repo contains step-by-step Jupyter notebooks to practice and learn Explorat
 ### 📊 Visual Tools:
 `catplot`, `barplot`, `boxplot`, `heatmap`, `seaborn`, `matplotlib`
 
-## Day 3 – Visualizing Survival Patterns
+## Day 4 – Practicing Essential concepts for Feature Engineering
 
 **Notebook:** `04_Essentail_Concepts_Practice_for_Feature-Engineering.ipynb`
 
@@ -67,7 +67,19 @@ This repo contains step-by-step Jupyter notebooks to practice and learn Explorat
 - Datetime Feature Extraction
 - Basic Categorization & Grouping
 
+## Day 5 – Column Engineering from Existing Features
+
+**Notebook:** `05_column_engineering_with_existing_features.ipynb`
+
+### What’s covered:
+- Created binary `sex` columns using One-Hot Encoding
+- Engineered `embarked` into multiple columns
+- Created `Family_size` from `sibsp` and `parch`
+- Defined `fsize` column for small families (<3 members)
+- Visualized relationships between new features and survival
+
 ---
+
 
 ### 🔧 Tools:
 `pandas`, `seaborn`, `matplotlib`
