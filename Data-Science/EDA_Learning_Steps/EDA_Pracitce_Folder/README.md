@@ -23,7 +23,24 @@ After a short break, I'm back and resuming my data science journey with the **Pe
 - Identified dominant classes, balance between categories, and missing values
 - Covered: `species`, `island`, `sex`
 
-### More to cover soon...
+---
+
+## Outlier Detection (Boxplots)
+- Plotted boxplots for all numerical columns individually
+- Checked distributions for visible outliers
+- Used IQR method to calculate thresholds
+- **No statistical outliers** were found in the dataset
+
+---
+
+## Grouped Analysis
+- Grouped `body_mass_g` by `island` and `species` to observe weight trends
+- Found **Gentoo (Biscoe)** to be heaviest (~5076g)
+- Adelie was consistent across all islands (~3700g)
+- Chinstrap (Dream) had slightly lower min value (2700g)
+- Mean ≈ Median across groups → no major outliers
+- Insight: **Species impacts body mass more than island location**
+
 ---
 
 > All plots were generated using reusable functions, and brief insights were written for each feature to solidify learning.
