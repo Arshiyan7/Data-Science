@@ -1,4 +1,4 @@
-# 📅 EDA Practice – Day 1: Penguin Dataset (Seaborn in-built dataset)
+# EDA Practice – Day 1: Penguin Dataset (Seaborn in-built dataset)
 
 After a short break, I'm back and resuming my data science journey with the **Penguins Dataset** as a hands-on EDA project.
 
