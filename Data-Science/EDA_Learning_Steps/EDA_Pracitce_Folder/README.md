@@ -43,4 +43,20 @@ After a short break, I'm back and resuming my data science journey with the **Pe
 
 ---
 
+## Bivariate Analysis & Missing Value Handling
+
+### Missing Values  
+- Handled missing data using `fillna()` and mode imputation  
+- Chose techniques based on feature type and distribution  
+
+### Numerical vs Numerical  
+- Used `sns.scatterplot()` and `sns.pairplot()`  
+- Explored trends and correlations between numeric features  
+
+### Categorical vs Numerical  
+- Used `sns.boxplot()`, `sns.violinplot()`, `sns.countplot()`, `sns.barplot()`  
+- Compared distributions across categories and identified key patterns  
+
+---
+
 > All plots were generated using reusable functions, and brief insights were written for each feature to solidify learning.
