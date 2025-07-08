@@ -59,4 +59,15 @@ After a short break, I'm back and resuming my data science journey with the **Pe
 
 ---
 
+---
+
+## Feature Engineering
+
+- Performed one-hot encoding on **categorical features** like `island` and `species`
+- Applied **label encoding** on the `sex` column to handle it numerically
+- Created additional **numerical features** to enrich the dataset
+- Ensured transformed data is ready for modeling or further analysis
+
+---
+
 > All plots were generated using reusable functions, and brief insights were written for each feature to solidify learning.
