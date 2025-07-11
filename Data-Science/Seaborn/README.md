@@ -1,5 +1,5 @@
 Seaborn is a statistical data visualization library built on Matplotlib. It simplifies the creation of informative and aesthetically pleasing charts, making it easier to analyze relationships, distributions, and categorical data. 
-# Seaborn Quick Revision Notes 🚀
+# Seaborn Quick Revision Notes 
 
 ## Dataset Handling
 
@@ -23,7 +23,7 @@ sns.displot(data)   # Use this instead
 - **Most used:** `displot()` (newer version, `distplot()` is deprecated).
 - **Tip:** Use `bins=` to control the number of bars in the histogram.
 
-🔍 **Pro Tip:** Press `Shift + Tab` inside brackets to see parameters.
+**Pro Tip:** Press `Shift + Tab` inside brackets to see parameters.
 
 ---
 
@@ -79,14 +79,14 @@ sns.despine()
 sns.countplot(x, data)
 ```
 - **Best for:** Checking class imbalances.
-- ✅ Highly preferred for categorical analysis.
+- Highly preferred for categorical analysis.
 
 ### Box Plot
 ```python
 sns.boxplot(x, y, data)
 ```
 - **Best for:** Identifying outliers and distribution spread.
-- ✅ Most commonly used for comparing distributions.
+- Most commonly used for comparing distributions.
 
 ### Violin Plot
 ```python
@@ -99,7 +99,7 @@ sns.violinplot(x, y, data)
 sns.stripplot(x, y, data, jitter=True)
 ```
 - **Best for:** Visualizing raw data points in categories.
-- ✅ Often combined with boxplot for better insights.
+- Often combined with boxplot for better insights.
 
 ### Swarm Plot
 ```python
@@ -123,8 +123,8 @@ sns.color_palette('coolwarm')
 ```python
 sns.heatmap(data, annot=True, cmap='coolwarm', linewidths=0.5)
 ```
-- ✅ **Best for:** Visualizing correlations, feature relationships, missing values.
-- 🎨 **Common options:**
+- **Best for:** Visualizing correlations, feature relationships, missing values.
+- **Common options:**
   - `annot=True` → Shows numerical values inside cells.
   - `cmap='coolwarm'` → Changes the color theme (Options: `viridis`, `Blues`, `magma`, etc.).
   - `linewidths=0.5` → Adds gridlines for better separation.
