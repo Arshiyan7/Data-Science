@@ -16,7 +16,7 @@ Here’s a simple guide for beginners to understand **when to use what plot** in
 
 ## 📘 1. Compare Categories (Categorical vs Numerical)
 
-> ✅ Use these when you want to compare values across categories.
+> Use these when you want to compare values across categories.
 
 | Plot         | Use Case                                      |
 |--------------|-----------------------------------------------|
@@ -27,9 +27,9 @@ Here’s a simple guide for beginners to understand **when to use what plot** in
 
 ---
 
-## 📗 2. Relationships Between Two Numeric Variables
+## 2. Relationships Between Two Numeric Variables
 
-> ✅ Use these when comparing two numerical columns.
+> Use these when comparing two numerical columns.
 
 | Plot           | Use Case                                       |
 |----------------|------------------------------------------------|
@@ -40,9 +40,9 @@ Here’s a simple guide for beginners to understand **when to use what plot** in
 
 ---
 
-## 📙 3. Understand Distribution of a Variable
+## 3. Understand Distribution of a Variable
 
-> ✅ Use when exploring how values are spread.
+> Use when exploring how values are spread.
 
 | Plot           | Use Case                          |
 |----------------|-----------------------------------|
@@ -55,7 +55,7 @@ Here’s a simple guide for beginners to understand **when to use what plot** in
 
 ---
 
-## 📕 4. Explore All Numeric Relationships
+## 4. Explore All Numeric Relationships
 
 > ✅ Use for full dataset exploration.
 
@@ -66,7 +66,7 @@ Here’s a simple guide for beginners to understand **when to use what plot** in
 
 ---
 
-## 🎯 Summary: What to Use When
+## Summary: What to Use When
 
 | Your Goal                            | Recommended Plot           |
 |--------------------------------------|----------------------------|
@@ -80,5 +80,5 @@ Here’s a simple guide for beginners to understand **when to use what plot** in
 
 ---
 
-Happy Plotting! 🎉  
+Happy Plotting! 
 Keep it simple. Start with your variable types, then choose your plot.
