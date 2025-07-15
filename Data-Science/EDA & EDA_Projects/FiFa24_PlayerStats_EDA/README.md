@@ -71,5 +71,3 @@ Remaining numerical columns were explored briefly but excluded from visual plots
 > **Note:** This is an exploratory stage. Data cleaning, handling of missing values, and transformations will be addressed in the next phase.
 
 ---
-
-Stay tuned!
