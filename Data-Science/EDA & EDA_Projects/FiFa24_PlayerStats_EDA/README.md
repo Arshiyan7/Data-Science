@@ -34,11 +34,42 @@ In this initial phase of EDA, the focus was to understand the structure and basi
 
 This foundational step sets up the rest of the analysis by ensuring clarity and structure in understanding the data.
 
----
+## 2. Univariate Analysis
 
-## Upcoming:  
-- **2. Univariate Analysis** — Deep dive into individual features  
-- **3. Bivariate Analysis** — Finding relationships between variables  
-- **4. Visualizations & Insights** — Player profiling, top attributes, value vs skill, etc.
+The goal of univariate analysis is to explore the distribution and characteristics of individual variables in the dataset. This helps us understand how each feature behaves independently before we move on to multivariate relationships.
+
+### Categorical Features
+
+We analyzed key categorical variables such as:
+
+- Player
+- Country
+- Club
+
+To avoid overcrowded or unreadable plots, only the top 20 most frequent categories were visualized using bar plots. This allowed us to maintain clarity while still gaining insight into distribution patterns. 
+
+Examples of insights:
+- England had the highest number of players in the dataset, followed by Germany and Spain.
+- A few player names appeared multiple times, likely due to transfers or duplicate records.
+
+### Numerical Features
+
+Given the high number of numerical features in the dataset, we focused on a selected group of 6–7 meaningful variables that best represent player performance, physical traits, and market value. These included:
+
+- Age
+- Height
+- Market Value
+- Ball Control
+- Sprint Speed
+- Strength
+- Goalkeeper Reflexes
+
+Histograms were plotted to observe distributions and spot potential outliers. Most features showed logical patterns (e.g., most players being between 20–28 years old, market value being highly skewed, etc.).
+
+Remaining numerical columns were explored briefly but excluded from visual plots to keep the analysis focused and informative.
+
+> **Note:** This is an exploratory stage. Data cleaning, handling of missing values, and transformations will be addressed in the next phase.
+
+---
 
 Stay tuned!
