@@ -68,6 +68,14 @@ Histograms were plotted to observe distributions and spot potential outliers. Mo
 
 Remaining numerical columns were explored briefly but excluded from visual plots to keep the analysis focused and informative.
 
+### Handling Outliers
+
+- Started by using describe() to understand the distribution and spot any obvious irregularities in numerical features.
+- Applied the IQR method to identify and filter out high outliers, visualized them for better clarity, and selectively dropped extreme ones.
+- Observed that dropping too many outliers shifts the threshold and brings new rows into the outlier range—so we kept some, realizing that not all outliers are necessarily bad, especially in large datasets (~5K rows).
+
+
+
 > **Note:** This is an exploratory stage. Data cleaning, handling of missing values, and transformations will be addressed in the next phase.
 
 ---
