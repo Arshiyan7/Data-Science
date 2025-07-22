@@ -1,4 +1,4 @@
-player,country,height,weight,age,club,ball_control,dribbling,marking,slide_tackle,stand_tackle,aggression,reactions,att_position,interceptions,vision,composure,crossing,short_pass,long_pass,acceleration,stamina,strength,balance,sprint_speed,agility,jumping,heading,shot_power,finishing,long_shots,curve,fk_acc,penalties,volleys,gk_positioning,gk_diving,gk_handling,gk_kicking,gk_reflexes,value
+ï»¿player,country,height,weight,age,club,ball_control,dribbling,marking,slide_tackle,stand_tackle,aggression,reactions,att_position,interceptions,vision,composure,crossing,short_pass,long_pass,acceleration,stamina,strength,balance,sprint_speed,agility,jumping,heading,shot_power,finishing,long_shots,curve,fk_acc,penalties,volleys,gk_positioning,gk_diving,gk_handling,gk_kicking,gk_reflexes,value
 Cristian Castro Devenish,Colombia,192,84,22,Atl. Nacional ,55,43,,68,73,72,68,30,65,30,50,33,64,49,41,55,86,40,52,43,51,64,54,30,31,32,34,41,33,10,11,6,7,9,$1.400.000
 Silaldo Taffarel,Brazil,181,80,31,Corinthians ,69,70,,56,58,62,70,69,70,64,54,60,63,63,64,87,81,42,67,65,65,54,60,64,68,65,62,48,46,12,15,14,8,14,$975.00 
 Thomas DÃ¤hne,Germany,193,84,29,Holstein Kiel ,25,12,,13,16,27,65,17,20,49,48,14,35,18,46,38,68,41,48,36,60,17,51,14,20,20,15,26,16,64,74,65,68,74,$1.100.000
@@ -5674,10 +5674,9 @@ Daniel Rivillo,Venezuela,179,71,26,Caracas F.C. ,69,56,None,62,66,64,60,52,62,58
 Sergio LeÃ³n,Spain,178,73,34,R. Valladolid CF ,73,75,None,21,33,66,71,75,35,70,78,61,71,57,76,69,71,72,74,77,77,73,76,75,73,75,64,74,75,13,6,8,11,10,$2.700.000
 Rodri,Spain,191,82,27,Manchester City ,85,78,None,78,86,82,82,75,83,83,85,63,86,83,54,88,84,65,62,65,72,80,89,64,82,65,61,46,59,14,10,10,7,8,$77.000.000
 Mert Ã‡etin,Turkey,189,90,26,Adana Demirspor ,58,56,None,71,73,72,66,30,67,50,68,48,64,53,54,62,85,39,66,46,71,67,67,38,41,48,39,42,37,12,5,10,12,10,$1.500.000
-Kylian Mbappé,France,182,73,24,Paris SG,91,93,None,32,34,64,93,92,38,83,88,78,85,71,97,87,76,81,97,93,77,72,88,93,82,80,69,84,83,11,13,5,7,6,$153.500.000
 Karim Benzema,France,185,81,35,Real Madrid,91,87,None,18,24,63,92,92,39,89,90,75,89,76,79,82,82,72,80,78,79,90,87,92,80,82,73,84,88,5,13,11,5,7,$64.000.000
 Mohamed Salah,Egypt,175,71,31,Liverpool,86,88,None,41,43,63,92,91,55,84,90,80,84,77,89,87,76,91,89,89,69,59,82,92,84,84,69,86,83,11,14,14,9,14,$99.500.000
-Sadio Mané,Senegal,174,69,31,FC Bayern München,86,88,None,38,42,75,91,90,35,84,84,78,84,71,91,85,72,88,86,93,87,84,83,85,78,77,64,75,75,7,10,10,15,14,$101.000.000
+Sadio Man ,Senegal,174,69,31,FC Bayern M nchen,86,88,None,38,42,75,91,90,35,84,84,78,84,71,91,85,72,88,86,93,87,84,83,85,78,77,64,75,75,7,10,10,15,14,$101.000.000
 Neymar Jr,Brazil,175,68,31,Paris SG,94,95,None,29,32,63,88,86,37,90,93,83,85,81,88,79,52,82,86,93,62,63,79,83,81,88,87,91,86,15,9,9,15,11,$99.500.000
 Cristiano Ronaldo,Portugal,187,83,38,Al Nassr,87,81,None,24,32,62,90,93,29,76,94,78,78,70,76,70,75,67,82,77,95,89,93,91,88,79,75,90,85,14,7,11,15,11,$31.000.000
 Zlatan Ibrahimovi?,Sweden,195,102,41,Milan,85,75,None,24,37,84,77,88,20,83,90,71,77,72,55,34,85,51,61,67,77,82,86,84,85,79,74,80,87,9,13,15,10,12,$10.500.000
