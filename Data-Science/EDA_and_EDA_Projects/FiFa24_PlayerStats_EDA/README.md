@@ -15,8 +15,6 @@ The dataset includes:
 
 In this initial phase of EDA, the focus was to understand the structure and basic contents of the dataset.
 
-### Tasks Completed:
-
 - Imported libraries and loaded the dataset using `pd.read_csv()` with the correct encoding (`ISO-8859-1`) to handle special characters
 - Used `.head()`, `.columns`, `.shape`, and `.dtypes` to get a general overview
 - Checked for missing/null values across all columns and calculated null percentage (e.g., `marking` has all NaNs)
@@ -68,11 +66,21 @@ Histograms were plotted to observe distributions and spot potential outliers. Mo
 
 Remaining numerical columns were explored briefly but excluded from visual plots to keep the analysis focused and informative.
 
-### Handling Outliers
+## 3. Handling Outliers
 
 - Started by using describe() to understand the distribution and spot any obvious irregularities in numerical features.
 - Applied the IQR method to identify and filter out high outliers, visualized them for better clarity, and selectively dropped extreme ones.
 - Observed that dropping too many outliers shifts the threshold and brings new rows into the outlier range—so we kept some, realizing that not all outliers are necessarily bad, especially in large datasets (~5K rows).
+
+## 4. Data Cleaning, Transformation & Grouping
+
+- Cleaned and standardized player demographic data including country, club value, and individual market value  
+- Categorized players into skill-based groups: Technical, Defensive, Attacking, and Goalkeeping  
+- Structured physical profiles for key archetypes like Dominant CBs, Explosive Wingers, and Set-Piece Experts  
+- Identified high-potential emerging talents and well-rounded hidden gems  
+- Applied grouping and filtering techniques to surface top performers in each role  
+- Prepared the dataset for deeper visual and statistical analysis in the next phase
+
 
 
 
