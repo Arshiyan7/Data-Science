@@ -81,7 +81,12 @@ Remaining numerical columns were explored briefly but excluded from visual plots
 - Applied grouping and filtering techniques to surface top performers in each role  
 - Prepared the dataset for deeper visual and statistical analysis in the next phase
 
+## Day 5. Visualization of Grouped and Sorted Data (FIFA24)
 
+- Visualized the groups of player stats using `matplotlib`.  
+- used **subplots** to compare skill attributes (like Dribbling, Ball Control, etc.) across players using both **bar plots** and **line plots**.  
+- Visualized physical and value-based attributes with clean, individual **bar plots** per player.  
+- Techniques like axis labeling, gridlines, and custom subplot layouts helped us keep the visuals clean and informative.
 
 
 > **Note:** This is an exploratory stage. Data cleaning, handling of missing values, and transformations will be addressed in the next phase.
