@@ -92,7 +92,19 @@ Remaining numerical columns were explored briefly but excluded from visual plots
 
 - Correlated the numerical columns in the FIFA24 dataset!  
 - Visualized the relationships using a heatmap
-- Engineered new columns for bivariate analysis, which we’ll dive into tomorrow.
+
+## 07 Bivariate Analysis
+
+### categorical vs numerical variables
+- Top 10 countries producing young talent  
+- Top 10 highest valued clubs  
+- Top 10 highest paid players  
+- Top 10 players with the most strength  
+- Top 10 players with the highest finishing rate  
+- Top 10 oldest players  
+
+
+
 
 
 > **Note:** This is an exploratory stage. Data cleaning, handling of missing values, and transformations will be addressed in the next phase.
