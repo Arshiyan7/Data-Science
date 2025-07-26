@@ -88,12 +88,12 @@ Remaining numerical columns were explored briefly but excluded from visual plots
 - Visualized physical and value-based attributes with clean, individual **bar plots** per player.  
 - Techniques like axis labeling, gridlines, and custom subplot layouts helped us keep the visuals clean and informative.
 
-## 06. Correlation  
+## 6. Correlation  
 
 - Correlated the numerical columns in the FIFA24 dataset!  
 - Visualized the relationships using a heatmap
 
-## 07 Bivariate Analysis
+## 7. Bivariate Analysis
 
 ### categorical vs numerical variables
 - Top 10 countries producing young talent  
