@@ -103,6 +103,17 @@ Remaining numerical columns were explored briefly but excluded from visual plots
 - Top 10 players with the highest finishing rate  
 - Top 10 oldest players  
 
+### Numerical Vs Numerical
+
+- height -- weight  
+- age -- value  
+- dribbling -- ball control  
+- vision -- short pass  
+- sprint speed -- acceleration  
+- heading -- jumping  
+
+*Note: We didn’t plot all 42 columns, only a few for practice purposes.*
+
 
 
 
