@@ -1,16 +1,13 @@
-# Kaggle Competitions  
+# Titanic - Kaggle Competition  
 
-This folder contains all the code and notebooks I created while participating in Kaggle competitions. Each subfolder or notebook represents work done for a specific competition.  
+This folder contains my work for the Titanic Kaggle competition. The challenge is to build a machine learning model that predicts whether a passenger survived the Titanic disaster based on features such as age, gender, ticket class, and more.  
 
-## Structure  
-- Each competition will have its own dedicated folder or notebook.  
-- Files include exploratory data analysis, model building, and final submission scripts.  
-- The goal is to track learning progress and experiments across different challenges.  
+## Steps Covered  
+- **Dataset Information**: Exploring the dataset and understanding available features.  
+- **Handling Missing Values**: Identifying and filling/removing null values in the dataset.  
+- **Modeling**: Building a survival prediction model using machine learning techniques.  
 
-## Purpose  
-- To maintain a record of all Kaggle competition work in one place.  
-- To practice and improve data science, machine learning, and deep learning skills.  
-- To experiment with different approaches and techniques for solving real-world datasets.  
-
-## Note  
-This repository is for practice and learning. Code may not represent fully optimized solutions but rather the process of exploration and participation in competitions.  
+## Future Work  
+In the future, this project may include additional analysis such as:  
+- Univariate analysis  
+- Bivariate analysis  
