@@ -17,6 +17,13 @@ This file focuses on the importance of splitting data into **training** and **te
 
 We also practiced using the **`train_test_split`** function from Scikit-Learn to achieve this.  
 
+## File 4: Preprocessing with StandardScaler  
+This file introduces **data preprocessing**, a crucial step before applying machine learning algorithms.  
+
+- We explored the **StandardScaler**, which standardizes features by removing the mean and scaling them to unit variance.  
+- Standardization ensures that all features are on the same scale, which is particularly important for algorithms sensitive to feature magnitudes (such as KNN, SVM, and logistic regression).  
+- By applying preprocessing, we improve model performance, stability, and accuracy.  
+
 ---
 
 ## Purpose  
