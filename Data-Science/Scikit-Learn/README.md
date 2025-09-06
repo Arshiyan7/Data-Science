@@ -24,6 +24,14 @@ This file introduces **data preprocessing**, a crucial step before applying mach
 - Standardization ensures that all features are on the same scale, which is particularly important for algorithms sensitive to feature magnitudes (such as KNN, SVM, and logistic regression).  
 - By applying preprocessing, we improve model performance, stability, and accuracy.  
 
+## File 5: Feature Encoding with OneHotEncoder and OrdinalEncoder  
+This file focuses on **encoding categorical variables** to prepare them for machine learning algorithms.  
+
+- We used **OneHotEncoder** to transform non-ordinal categorical features into multiple binary columns.  
+- We used **OrdinalEncoder** to assign ordered numeric values to categories with an inherent ranking.  
+- Both techniques were practiced using datasets fetched from **OpenML** (Adult and Cars datasets).  
+- This step ensures that categorical data can be effectively utilized by ML models, leading to better performance and insights.  
+
 ---
 
 ## Purpose  
