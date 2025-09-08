@@ -32,6 +32,13 @@ This file focuses on **encoding categorical variables** to prepare them for mach
 - Both techniques were practiced using datasets fetched from **OpenML** (Adult and Cars datasets).  
 - This step ensures that categorical data can be effectively utilized by ML models, leading to better performance and insights.  
 
+## File 6: Classification Algorithms  
+This file introduces **classification** and explores popular algorithms such as **K-Nearest Neighbors (KNN)** and **Logistic Regression**.  
+
+- We learned how to train classification models to predict categories.  
+- We evaluated model performance using metrics like accuracy score and confusion matrix.  
+- This step helps understand how to choose and apply the right classification algorithm for a given problem.  
+
 ---
 
 ## Purpose  
