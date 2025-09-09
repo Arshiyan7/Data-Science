@@ -39,6 +39,14 @@ This file introduces **classification** and explores popular algorithms such as 
 - We evaluated model performance using metrics like accuracy score and confusion matrix.  
 - This step helps understand how to choose and apply the right classification algorithm for a given problem.  
 
+## File 7: Clustering with KMeans  
+This file introduces **clustering**, an unsupervised machine learning technique that groups similar data points together without predefined labels.  
+
+- We used **make_blobs** from Scikit-Learn to generate synthetic datasets for clustering practice.  
+- We applied the **KMeans algorithm**, which assigns data points to clusters based on similarity and iteratively refines the cluster centers.  
+- This technique is helpful when we want to discover natural groupings in data, such as customer segmentation, pattern recognition, and anomaly detection.  
+- We also visualized the clusters to better understand how KMeans partitions the data.  
+
 ---
 
 ## Purpose  
