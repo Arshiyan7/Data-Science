@@ -47,6 +47,14 @@ This file introduces **clustering**, an unsupervised machine learning technique 
 - This technique is helpful when we want to discover natural groupings in data, such as customer segmentation, pattern recognition, and anomaly detection.  
 - We also visualized the clusters to better understand how KMeans partitions the data.  
 
+## File 8: Dimensionality Reduction with PCA  
+This file introduces **Principal Component Analysis (PCA)**, a technique used to reduce the number of features while retaining as much information as possible.  
+
+- We used an **OpenML dataset** and applied PCA to reduce its dimensionality.  
+- After dimensionality reduction, we trained a **Logistic Regression** model to measure prediction accuracy.  
+- When we decreased the number of principal components to just 10, the model’s accuracy dropped.  
+- This happened because fewer components meant losing important variance in the data, resulting in the model having less information to learn from and therefore performing worse.  
+
 ---
 
 ## Purpose  
