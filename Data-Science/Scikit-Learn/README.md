@@ -55,6 +55,33 @@ This file introduces **Principal Component Analysis (PCA)**, a technique used to
 - When we decreased the number of principal components to just 10, the model’s accuracy dropped.  
 - This happened because fewer components meant losing important variance in the data, resulting in the model having less information to learn from and therefore performing worse.  
 
+## File 9: Model Evaluation with Metrics  
+This file explores different **model evaluation metrics** to measure performance beyond just accuracy.  
+
+- We used **precision**, **recall**, **F1-score**, and **ROC-AUC** to better understand model behavior.  
+- We also visualized **confusion matrices** to see where models make correct and incorrect predictions.  
+- These metrics are crucial for evaluating models, especially when dealing with imbalanced datasets.  
+
+## File 10: Cross-Validation  
+This file introduces **cross-validation**, a technique used to get a more reliable estimate of model performance.  
+
+- We used **K-Fold Cross-Validation** to split data into multiple folds and train/test the model on each fold.  
+- This helps in reducing bias and variance caused by a single train/test split.  
+- Cross-validation ensures a more robust evaluation of the model before deployment.  
+
+## File 11: Hyperparameter Tuning  
+This file focuses on **hyperparameter optimization**, which helps improve model performance.  
+
+- We practiced using **GridSearchCV** and **RandomizedSearchCV** to find the best hyperparameters for algorithms like KNN and Logistic Regression.  
+- Hyperparameter tuning improves accuracy, reduces overfitting, and ensures we are using the best model configuration possible.  
+
+## File 12: Pipelines  
+This file introduces **pipelines**, which streamline the machine learning workflow.  
+
+- We combined **data preprocessing** and **model training** steps into a single pipeline.  
+- This makes our code cleaner, reduces chances of data leakage, and ensures consistent transformations during training and testing.  
+- Pipelines make experimentation easier and reproducible, which is essential for real-world ML projects.  
+
 ---
 
 ## Purpose  
