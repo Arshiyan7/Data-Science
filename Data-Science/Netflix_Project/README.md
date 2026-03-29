@@ -33,6 +33,7 @@ distribution, and audience demographics.
 
 ## How to Run
 1. Clone the repository
-2. Install dependencies: `pip install pandas matplotlib seaborn`
-3. Open `Netflix_Project.ipynb` in Jupyter Notebook
-4. Run all cells
+2. Navigate to the project folder
+3. Install dependencies: `pip install pandas matplotlib seaborn`
+4. Open the notebook in Jupyter
+5. Run all cells
