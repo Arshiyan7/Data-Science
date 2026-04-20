@@ -7,7 +7,7 @@ exploratory data analysis, machine learning, and data visualization.
 
 | Project | Description | Libraries Used |
 |--------|-------------|----------------|
-| [Netflix Content Analysis](https://github.com/Arshiyan7/Netflix_EDA) | EDA on Netflix's content library uncovering growth trends, top countries, and audience demographics | Pandas, Matplotlib, Seaborn |
+| [Netflix Content Analysis](https://github.com/Arshiyan7/Data-Science/tree/master/Netflix_EDA) | EDA on Netflix's content library uncovering growth trends, top countries, and audience demographics | Pandas, Matplotlib, Seaborn |
 | [Netflix SQL Analysis](https://github.com/Arshiyan7/Data-Science/tree/master/netflix-postgresql-analysis) | SQL analysis of Netflix dataset answering 10 business questions using PostgreSQL | PostgreSQL, pgAdmin |
 | [FIFA 24 EDA](https://github.com/Arshiyan7/FiFa24_EDA) | Exploratory analysis of FIFA 24 player statistics | Pandas, Matplotlib, Seaborn |
 | [COVID-19 Power BI Dashboard](https://github.com/Arshiyan7/Covid-19-Powerbi-dashboard) | Interactive dashboard analyzing global COVID-19 cases, deaths, and recoveries | Power BI, DAX |
