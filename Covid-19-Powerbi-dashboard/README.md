@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing the global spread and impact of COVI
 covering confirmed cases, deaths, recoveries, and geographic distribution across countries.
 
 ## Dashboard Preview
-<!-- Add a screenshot of your dashboard here -->
+![image alt](https://github.com/Arshiyan7/Data-Science/blob/79983e682817a45310661e2b72dae86f2fb0dcd2/powerbi.png)
 
 
 ## Business Questions Answered
