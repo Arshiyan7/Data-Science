@@ -34,8 +34,9 @@ Five CSV files were used out of the nine available:
 ---
 
 ## Project Structure
+
 olist-analytics-project/
-│
+
 ├── data/
 │   ├── orders_cleaned.csv
 │   ├── items_cleaned.csv
