@@ -35,8 +35,8 @@ Five CSV files were used out of the nine available:
 
 ## Project Structure
 
+```text
 olist-analytics-project/
-
 ├── data/
 │   ├── orders_cleaned.csv
 │   ├── items_cleaned.csv
@@ -61,6 +61,7 @@ olist-analytics-project/
 │   └── README.md
 │
 └── README.md
+```
 
 ## Author
 
