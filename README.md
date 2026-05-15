@@ -14,6 +14,7 @@ exploratory data analysis, machine learning, and data visualization.
 | [Steam Dataset Analysis](https://github.com/Arshiyan7/Data-Science/tree/master/Data-Science/Steam-data-Analysis) | Analysis of Steam gaming platform data | Pandas, Matplotlib, Seaborn |
 | [Breast Cancer Prediction](https://github.com/Arshiyan7/Data-Science/blob/master/Data-Science/Scikit-Learn/Scikit_learn_Practice_Codes/Breast_cancer_Prediction_Model.ipynb) | Machine learning model to predict breast cancer diagnosis | Pandas, Scikit-learn, Seaborn |
 | [Personal Finance Tracker](https://github.com/Arshiyan7/Data-Science/tree/master/Python_project_finance_tracker) | Python-based tool to track and visualize personal finances | Pandas, Matplotlib |
+| [Olist E-Commerce Analytics](https://github.com/Arshiyan7/Data-Science/tree/master/Olist_Analyst_project) | End-to-end analytics pipeline on real-world Brazilian e-commerce data | Python, SQL, Excel, Power BI |
 
 ## Skills & Concepts Covered
 - **Data Analysis:** Pandas, NumPy
