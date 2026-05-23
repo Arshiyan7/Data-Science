@@ -1,63 +1,36 @@
-# Data Science Repository
+# Data Science — The Beginning
 
-This repository contains my work, notes, and projects related to data science.  
-It covers the essential tools, libraries, and workflows commonly used for data analysis, visualization, and machine learning.
+This is where it started.
 
----
+I created this repository when I first fell in love with data science. The idea of finding patterns in data, building models, and solving complex problems felt like the path I was meant to take. I spent months here learning Python from scratch, working through NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn one library at a time. Every notebook in this repository is a proof of that obsession.
 
-## Tools and Libraries
+But reality has its own plans.
 
-The repository demonstrates usage of the following tools and libraries:
+The data science job market, especially where I am from, demands years of experience, advanced degrees, and a level of specialization that takes time to build. I realized that chasing data science directly without financial stability was a battle I could not win right now. So I made a decision — a painful but necessary one.
 
-- **Python** – Core programming language
-- **NumPy** – Numerical computing and array operations
-- **Pandas** – Data manipulation and analysis
-- **Matplotlib** – Data visualization
-- **Seaborn** – Statistical visualizations
-- **Plotly** – Interactive visualizations
-- **Scikit-learn** – Machine learning models and utilities
-- **EDA (Exploratory Data Analysis)** – Data exploration techniques
+I shifted to data analytics.
 
----
+Not because I lost interest. Not because I gave up. But because it is the smarter path to stability. Data analytics lets me use everything I learned here — Python, statistics, data manipulation, visualization — while building toward something sustainable. It is the same foundation, a different direction for now.
 
-## Repository Structure
+This repository will not be updated anymore. It is archived as a reminder of where I started and why I started.
 
-The structure of this repository is organized as follows:
+But this is not goodbye to data science. Once I have a stable footing in the industry, once I have built the experience and the resources, I will come back to this. The machine learning notebooks, the statistical models, the algorithms — I will pick up exactly where I left off.
 
-Data Science/
-│
-├── Numpy/
-├── Pandas/
-├── Matplotlib/
-├── Seaborn/
-├── Plotly/
-├── Scikit-learn/
-├── EDA_and_EDA_Projects/
-└── Netflix/
-└── Steam_data_analysis/
+If you are reading this and you are on a similar path — juggling passion with practicality — know that taking the longer route does not mean abandoning the destination. It just means being smart about the journey.
 
-
-- Each folder (e.g., `Numpy`, `Pandas`) contains practice files, notebooks, and examples.  
-- The **EDA** folder contains exploratory data analysis workflows and related projects.  
-- The **Projects** folder includes case studies and end-to-end analyses.
+The data science chapter is paused. Not closed.
 
 ---
 
-## Featured Projects
+## Current Work
 
-- **Netflix Dataset Analysis** – Examines Netflix content trends, categories, and releases.  
-- **Steam Dataset Analysis** – Explores Steam gaming data such as release timelines, pricing, and reviews.
+My active portfolio has moved to a new repository focused on data analytics.
 
----
-
-## Purpose
-
-The repository is designed to:
-
-- Consolidate my learning of data science tools and methods.  
-- Showcase proficiency with data manipulation, visualization, and modeling.  
-- Provide hands-on examples of real-world dataset analysis.  
+[Data Analytics Portfolio](https://github.com/Arshiyan7/Data-Analytics)
 
 ---
 
+## Author
 
+Arshiyan Mairaj
+[LinkedIn](https://linkedin.com/in/arshiyanmairaj/) | [GitHub](https://github.com/Arshiyan7)
